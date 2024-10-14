@@ -29,6 +29,26 @@ Este projeto implementa uma cena simples em C utilizando OpenGL (mais especifica
    ```bash
    ./casa
 
+## 📦 Dependências
+- **OpenGL:** Para renderizar gráficos.
+- **GLUT:** Biblioteca que facilita o uso do OpenGL.
+
+## No Linux:
+Para instalar as dependências no Linux, utilize:
+   ```bash
+      sudo apt-get install freeglut3-dev
+   ```
+
+## No Windows:
+Você pode baixar os arquivos de cabeçalho e bibliotecas do GLUT no site oficial e configurá-los manualmente.
+
 ## 💡 Como Funciona
 - **Cena Inicial:** Uma casa com uma árvore ao lado.
 - **Tecla T:** Ao apertar T, um raio aparece, iluminando brevemente a tela. Após o raio, a árvore cai, simulando o impacto do raio.
+
+## ✨ Melhorias Futuras
+Adicionar efeito sonoro para o raio.
+Inserir novas interações com a cena, como chuva.
+
+## 🧑‍💻 Autor
+Projeto desenvolvido por AdelsonJ.
