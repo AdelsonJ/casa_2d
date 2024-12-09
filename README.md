@@ -19,7 +19,7 @@ Este projeto implementa uma cena simples em C utilizando OpenGL (mais especifica
 
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/AdelsonJ/seu-repositorio.git
+   git clone https://github.com/AdelsonJ/casa_2d.git
    
 3. Compile o projeto utilizando o Makefile. Simplesmente execute:
    ```bash
